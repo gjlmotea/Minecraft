@@ -1,0 +1,199 @@
+/enchant
+/setblock 
+/tellraw @a {"text":"您已死亡。","color":"gold","bold":"true"}
+
+
+頭盔 Diamond_helmet
+give @a diamond_helmet{Enchantments:[{id:blast_protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+	水中呼吸 respiration 3
+	水中挖掘 aqua_affinity 1
+	爆炸 blast_protection 4
+	修補 mending 1
+	尖刺 thorns 3
+	耐久 unbreaking 3
+
+
+胸甲 Diamond_chestplates
+give @a diamond_chestplate{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+	火焰 fire_protection 4
+	修補 mending 1
+	尖刺 thorns 3
+	耐久 unbreaking 3
+	
+	
+護腿 Diamond_leggings
+give @a diamond_leggings{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+	防彈/投射 projectile_protection 4
+	修補 mending 1
+	尖刺 thorns 3
+	耐久 unbreaking 3
+	
+	
+靴子 Diamond_boots
+give @a diamond_boots{Enchantments:[{id:blast_protection,lvl:4},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+	深海漫遊 depth_strider 3
+	輕盈 feather_falling 4
+	修補 mending 1
+	尖刺 thorns 3
+	耐久 unbreaking 3
+	------
+give @a diamond_boots{Enchantments:[{id:blast_protection,lvl:4},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:frost_walker,lvl:2}]}
+	冰霜行者 frost_walker 2
+	輕盈 feather_falling 4
+	修補 mending 1
+	尖刺 thorns 3
+	耐久 unbreaking 3
+	
+	
+鎬子 Diamond_pickaxe
+鏟子 Diamond_shovel
+give @a diamond_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+give @a diamond_shovel{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	效率 efficiency 5
+	幸運 fortune 3
+	修補 mending 1
+	耐久 unbreaking 3
+	------
+give @a diamond_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
+give @a diamond_shovel{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
+	效率 efficiency 5
+	修補 mending 1
+	絲綢 silk_touch 1
+	耐久 unbreaking 3
+	
+	
+斧頭 Diamond_axe
+give @a diamond_axe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+	效率 efficiency 5
+	幸運 fortune 3
+	修補 mending 1
+	鋒利 sharpness 5
+	耐久 unbreaking 3
+	------
+give @a diamond_axe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+	效率 efficiency 5
+	修補 mending 1
+	鋒利 sharpness 5
+	絲綢 silk_touch 1
+	耐久 unbreaking 3
+	
+
+鋤頭 Diamond_hoe
+give @a diamond_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	修補 mending 1
+	耐久 unbreaking 3
+	
+	
+大劍 Diamond_sword
+give @a diamond_sword{Enchantments:[{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:looting,lvl:3},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+	燃燒 fire_aspect 2
+	擊退 knockback 2
+	掠奪 looting 3
+	修補 mending 1
+	鋒利 sharpness 5
+	橫掃 sweeping 3
+	耐久 unbreaking 3
+	
+	
+弓箭 Bow
+give @a bow{Enchantments:[{id:flame,lvl:1},{id:infinity,lvl:1},{id:mending,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:unbreaking,lvl:3}]}
+	火焰 flame 1
+	無限 infinity 1
+	強力 power 5
+	衝擊 punch 2
+	耐久 unbreaking 3
+	------
+	火焰 flame 1
+	修補 mending 1
+	強力 power 5
+	衝擊 punch 2
+	耐久 unbreaking 3
+
+
+十字弩 Crossbow
+give @a crossbow{Enchantments:[{id:multishot,lvl:1},{id:piercing,lvl:4},{id:quick_charge,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	分裂 multishot 1
+	快速上弦 quick_charge 3
+	修補 mending 1
+	耐久 unbreaking 3
+	------
+	貫穿 piercing 4
+	快速上弦 quick_charge 3
+	修補 mending 1
+	耐久 unbreaking 3
+
+普通箭矢 arrow
+追跡之箭 spectral_arrow
+傷害之箭
+give @a minecraft:tipped_arrow{Potion:"minecraft:strong_harming"} 64
+
+
+釣竿 Fishing_rod
+give @a fishing_rod{Enchantments:[{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	魚餌 lure 3
+	海洋的祝福 luck_of_the_sea 3
+	修補 mending 1
+	耐久 unbreaking 3
+	
+	
+	
+鞘翅 Elytra
+give @a elytra{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	修補 mending 1
+	耐久 unbreaking 3
+	
+	
+三叉戟 Trident
+give @a trident{Enchantments:[{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	魚叉 impaling 5
+	波濤 riptide 3
+	修補 mending 1
+	耐久 unbreaking 3
+	------
+give @a trident{Enchantments:[{id:channeling,lvl:1},{id:impaling,lvl:5},{id:loyalty,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	喚雷 channeling 1
+	魚叉 impaling 5
+	忠誠 loyalty 3
+	修補 mending 1
+	耐久 unbreaking 3
+
+
+盾牌 Shield
+give @a shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	修補 mending 1
+	耐久 unbreaking 3
+	
+	
+剪刀 Shears
+give @a shears{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	效率 efficiency 5
+	修補 mending 1
+	耐久 unbreaking 3
+	
+
+打火石 Flint_and_steel
+give @a flint_and_steel{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+	修補 mending 1
+	耐久 unbreaking 3
+
+
+
+飛濺 splash_potion
+夜視 long_night_vision
+隱形 long_invisibility
+跳躍 strong_leaping	
+
+傷害藥水
+/give @a minecraft:potion{Potion:"strong_harming"} 1
+
+治療藥水
+/give @a minecraft:potion{Potion:"strong_healing"} 1
+
+恢復藥水
+/give @a minecraft:potion{Potion:"strong_regeneration"} 1
+
+力量藥水
+/give @a minecraft:potion{Potion:"strong_strength"} 1
+
+緩速藥水
+/give @a minecraft:splash_potion{Potion:"strong_turtle_master"} 1
