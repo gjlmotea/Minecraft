@@ -21,5 +21,5 @@ give @a trident{Enchantments:[{id:channeling,lvl:1},{id:impaling,lvl:5},{id:loya
 give @a shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a shears{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a flint_and_steel{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
-
+give @a minecraft:golden_apple 64
 
