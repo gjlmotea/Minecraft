@@ -1,0 +1,22 @@
+(無附魔全套鑽石裝 - 將以下貼在對話框上)
+
+/give @a diamond_helmet
+/give @a diamond_chestplate
+/give @a diamond_leggings
+/give @a diamond_boots
+/give @a diamond_pickaxe
+/give @a diamond_shovel
+/give @a diamond_pickaxe
+/give @a diamond_axe
+/give @a diamond_hoe
+/give @a diamond_sword
+/give @a bow
+/give @a crossbow
+/give @a minecraft:tipped_arrow 64
+/give @a fishing_rod
+/give @a elytra
+/give @a trident
+/give @a shield
+/give @a shears
+/give @a flint_and_steel
+/give @a minecraft:golden_apple 64
