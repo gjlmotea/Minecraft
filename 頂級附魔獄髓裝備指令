@@ -1,0 +1,26 @@
+(頂級附魔獄髓裝 - 需為伺服器管理員，將以下貼在CMD上)
+
+/give @a netherite_helmet{Enchantments:[{id:blast_protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+/give @a netherite_chestplate{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+/give @a netherite_leggings{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+/give @a netherite_boots{Enchantments:[{id:blast_protection,lvl:4},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+/give @a netherite_boots{Enchantments:[{id:blast_protection,lvl:4},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:frost_walker,lvl:2}]}
+/give @a netherite_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_shovel{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_shovel{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_axe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+/give @a netherite_axe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+/give @a netherite_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_sword{Enchantments:[{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:looting,lvl:3},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+/give @a bow{Enchantments:[{id:flame,lvl:1},{id:infinity,lvl:1},{id:mending,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:unbreaking,lvl:3}]}
+/give @a crossbow{Enchantments:[{id:multishot,lvl:1},{id:piercing,lvl:4},{id:quick_charge,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a minecraft:tipped_arrow{Potion:"minecraft:strong_harming"} 64
+/give @a fishing_rod{Enchantments:[{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a elytra{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a trident{Enchantments:[{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a trident{Enchantments:[{id:channeling,lvl:1},{id:impaling,lvl:5},{id:loyalty,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a shears{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a flint_and_steel{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a minecraft:golden_apple 64
