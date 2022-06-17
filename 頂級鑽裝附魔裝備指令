@@ -1,3 +1,5 @@
+(鑽石裝 伺服器管理員 - 將以下貼在CMD上)
+
 give @a diamond_helmet{Enchantments:[{id:blast_protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
 give @a diamond_chestplate{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
 give @a diamond_leggings{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
@@ -22,4 +24,3 @@ give @a shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a shears{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a flint_and_steel{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a minecraft:golden_apple 64
-
