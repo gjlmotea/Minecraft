@@ -1,0 +1,22 @@
+(無附魔全套獄髓裝 - 將以下貼在對話框上)
+
+/give @a netherite_helmet
+/give @a netherite_chestplate
+/give @a netherite_leggings
+/give @a netherite_boots
+/give @a netherite_pickaxe
+/give @a netherite_shovel
+/give @a netherite_pickaxe
+/give @a netherite_axe
+/give @a netherite_hoe
+/give @a netherite_sword
+/give @a bow
+/give @a crossbow
+/give @a minecraft:tipped_arrow 64
+/give @a fishing_rod
+/give @a elytra
+/give @a trident
+/give @a shield
+/give @a shears
+/give @a flint_and_steel
+/give @a minecraft:golden_apple 64
