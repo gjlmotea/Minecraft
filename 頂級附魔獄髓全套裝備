@@ -24,3 +24,77 @@ give @a shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a shears{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a flint_and_steel{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 give @a minecraft:enchanted_golden_apple 64
+give @a minecraft:firework_rocket 64
+
+
+
+=================
+
+
+獄髓頭盔
+/give @a netherite_helmet{Enchantments:[{id:blast_protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+
+獄髓胸甲
+/give @a netherite_chestplate{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+
+獄髓護腿
+/give @a netherite_leggings{Enchantments:[{id:blast_protection,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+
+獄髓靴子
+/give @a netherite_boots{Enchantments:[{id:blast_protection,lvl:4},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
+/give @a netherite_boots{Enchantments:[{id:blast_protection,lvl:4},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:frost_walker,lvl:2}]}
+
+
+獄髓鎬
+/give @a netherite_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
+
+獄髓鏟
+/give @a netherite_shovel{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a netherite_shovel{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
+
+獄髓斧
+/give @a netherite_axe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+/give @a netherite_axe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+
+獄髓鋤
+/give @a netherite_hoe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+獄髓劍
+/give @a netherite_sword{Enchantments:[{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:looting,lvl:3},{id:mending,lvl:1},{id:sharpness,lvl:5},{id:unbreaking,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:bane_of_arthropods,lvl:5},{id:smite,lvl:5}]}
+
+弓
+/give @a bow{Enchantments:[{id:flame,lvl:1},{id:infinity,lvl:1},{id:mending,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:unbreaking,lvl:3}]}
+
+十字弓
+/give @a crossbow{Enchantments:[{id:multishot,lvl:1},{id:piercing,lvl:4},{id:quick_charge,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+箭矢
+/give @a minecraft:tipped_arrow{Potion:"strong_harming"} 64
+
+釣竿
+/give @a fishing_rod{Enchantments:[{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+
+三叉戟
+/give @a trident{Enchantments:[{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+/give @a trident{Enchantments:[{id:channeling,lvl:1},{id:impaling,lvl:5},{id:loyalty,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+盾牌
+/give @a shield{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+剪刀
+/give @a shears{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+打火石
+/give @a flint_and_steel{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+附魔金蘋果
+/give @a enchanted_golden_apple 64
+
+鞘翅
+/give @a elytra{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
+
+煙火
+/give @a firework_rocket 64
+
