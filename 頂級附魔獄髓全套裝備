@@ -44,7 +44,6 @@ give @a minecraft:firework_rocket 64
 /give @a netherite_boots{Enchantments:[{id:blast_protection,lvl:4},{id:depth_strider,lvl:3},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3}]}
 /give @a netherite_boots{Enchantments:[{id:blast_protection,lvl:4},{id:feather_falling,lvl:4},{id:fire_protection,lvl:4},{id:projectile_protection,lvl:4},{id:protection,lvl:4},{id:mending,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:frost_walker,lvl:2}]}
 
-
 獄髓鎬
 /give @a netherite_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:fortune,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 /give @a netherite_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:mending,lvl:1},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]}
@@ -66,7 +65,7 @@ give @a minecraft:firework_rocket 64
 弓
 /give @a bow{Enchantments:[{id:flame,lvl:1},{id:infinity,lvl:1},{id:mending,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:unbreaking,lvl:3}]}
 
-十字弓
+弩（十字弓）
 /give @a crossbow{Enchantments:[{id:multishot,lvl:1},{id:piercing,lvl:4},{id:quick_charge,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
 
 箭矢
@@ -74,7 +73,6 @@ give @a minecraft:firework_rocket 64
 
 釣竿
 /give @a fishing_rod{Enchantments:[{id:lure,lvl:3},{id:luck_of_the_sea,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
-
 
 三叉戟
 /give @a trident{Enchantments:[{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1},{id:unbreaking,lvl:3}]}
@@ -97,4 +95,14 @@ give @a minecraft:firework_rocket 64
 
 煙火
 /give @a firework_rocket 64
+
+黑曜石
+/give @a obsidian 64
+
+終界珍珠
+/give @a ender_pearl 16
+
+終界之眼
+/give @a ender_eye 64
+
 
